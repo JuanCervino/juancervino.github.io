@@ -1,0 +1,178 @@
+2024:
+
+- title: "A Manifold Perspective on the Statistical Generalization of Graph Neural Networks"
+  authors: 
+  - "Zhiyang"
+  - "me"
+  - "Alejandro" 
+  venue: "under submission."
+  paper_pdf: "https://arxiv.org/pdf/2406.05225"
+
+- title: "Generalization of Graph Neural Networks is Robust to Model Mismatch"
+  authors: 
+  - "Zhiyang"
+  - "me"
+  - "Alejandro" 
+  venue: "under submission."
+  paper_pdf: "https://arxiv.org/pdf/2408.13878"
+
+- title: "Generalization of Geometric Graph Neural Networks"
+  authors: 
+  - "Zhiyang"
+  - "me"
+  - "Alejandro" 
+  venue: "to appear at ASILOMAR 2024."
+  paper_pdf: ""
+
+- title: "Generalization of Geometric Graph Neural Networks"
+  authors: 
+  - "Zhiyang"
+  - "me"
+  - "Alejandro" 
+  venue: "under submission to IEEE TSP."
+  paper_pdf: ""
+
+- title: "Distributed Training of Large Graph Neural Networks with Variable Communication Rates"
+  authors: 
+  - "me" 
+  - "Hesham"
+  - "Adam" 
+  - "Turja" 
+  - "Nageen"
+  - "Alejandro" 
+  venue: "under submission to IEEE TSPIN."
+  paper_pdf: "https://arxiv.org/pdf/2406.17611"
+
+- title: "FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs"
+  authors: 
+  - "Hesham"
+  - "Adam" 
+  - "Turja" 
+  - "me" 
+  - "Alejandro" 
+  - "Nageen"
+  venue: "presented at DAC 2024."
+  paper_pdf: "https://arxiv.org/pdf/2311.17847.pdf"
+
+2023:
+
+  - title: "Learning Globally Smooth Functions on Manifolds"
+    authors: 
+    - "me"
+    - "Luiz" 
+    - "Ben" 
+    - "Rene" 
+    - "Alejandro" 
+    venue: "presented at ICML 2023."
+    paper_pdf: "https://proceedings.mlr.press/v202/cervino23a/cervino23a.pdf"
+
+  - title: "Training Graph Neural Networks on Growing Stochastic Graphs"
+    authors: 
+    - "me"
+    - "Luana"
+    - "Alejandro"
+    venue: "presented at ICASSP 2023."
+    paper_pdf: "https://arxiv.org/abs/2210.15567"
+    
+  - title: "Multi-task Bias-Variance Trade-off Through Functional Constraints"
+    authors: 
+    - "me"
+    - "Bazerque" 
+    - "Miguel" 
+    - "Alejandro" 
+    venue: "presented at ICASSP 2023."
+    paper_pdf: "https://arxiv.org/abs/2210.15573"
+    
+  - title: "Learning by Transference: Training Graph Neural Networks on Growing Graphs"
+    authors: 
+    - "me"
+    - "Luana"
+    - "Alejandro"
+    venue: "published at IEEE Transactions on Signal Processing."
+    paper_pdf: "https://arxiv.org/pdf/2106.03693.pdf"
+
+  - title: "Intrinsically motivated graph exploration using network theories of human curiosity"
+    authors: 
+    - "Shubankar"
+    - "Mathieu"
+    - "me"
+    - "Alejandro"
+    - "Kieran"
+    - "Bassett"
+    venue: "presented at Learning on Graphs Conference 2023."
+    paper_pdf: "https://openreview.net/forum?id=XJpQnN4JNE"
+
+2022:
+
+  - title: "An Agnostic Approach to Federated Learning with Class Imbalance"
+    authors: 
+    - "Zebang"
+    - "me" 
+    - "Hamed" 
+    - "Alejandro" 
+    venue: "presented at ICLR 2022."
+    paper_pdf: "https://openreview.net/pdf?id=Xo0lbDt975"
+    code: "https://github.com/shenzebang/Federated-Learning-Pytorch"
+    
+    
+  - title: "Federated Representation Learning via Maximal Coding Rate Reduction"
+    authors: 
+    - "me"
+    - "Navid" 
+    - "Alejandro" 
+    venue: "available online."
+    paper_pdf: "https://arxiv.org/pdf/2210.00299"
+    code: "https://github.com/JuanCervino/FLOW"
+
+  - title: "Training stable graph neural networks through constrained learning"
+    authors: 
+    - "me"
+    - "Luana" 
+    - "Alejandro" 
+    venue: "presented at ICASSP 2022."
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/9746912"
+    code: "https://github.com/JuanCervino/graph-neural-networks"
+
+
+2021:
+
+
+  - title: "Multi-task Reinforcement Learning in Reproducing Kernel Hilbert Spaces via Cross-learning"
+    authors: 
+    - "me"
+    - "Bazerque" 
+    - "Miguel" 
+    - "Alejandro" 
+    venue: "published at IEEE Transactions on Signal Processing."
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/9585424/"
+
+2020:
+
+  - title: "Multi-task Supervised Learning via Cross-learning"
+    authors: 
+    - "me"
+    - "Bazerque" 
+    - "Miguel" 
+    - "Alejandro" 
+    venue: "presented at the European Signal Processing Conference (EUSIPCO)."
+    paper_pdf: "https://ieeexplore.ieee.org/iel7/9615915/9615917/09615939.pdf"
+
+  - title: "Parameter Critic: a Model Free Variance Reduction Method Through Imperishable Samples"
+    authors: 
+    - "me"
+    - "Harshat" 
+    - "Alejandro" 
+    venue: "available online."
+    paper_pdf: "https://arxiv.org/pdf/2009.13668"
+
+2019:
+
+  - title: "Meta-learning through coupled optimization in reproducing kernel hilbert spaces"
+    authors: 
+    - "me"
+    - "Bazerque" 
+    - "Miguel" 
+    - "Alejandro" 
+    venue: "presented at the American Control Conference (ACC)."
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8814419"
+

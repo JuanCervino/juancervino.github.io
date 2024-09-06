@@ -1,0 +1,80 @@
+me:
+  name: "Juan Cervino"
+
+Luiz:
+  name: "Luiz F. O. Chamon"
+  web: "https://luizchamon.com/"
+
+Luana:
+  name: "Luana Ruiz"
+  web: "https://engineering.jhu.edu/faculty/luana-ruiz/"
+
+Alejandro:
+  name: "Alejandro Ribeiro"
+  web: "https://directory.seas.upenn.edu/alejandro-ribeiro/"
+
+Bazerque:
+  name: "Juan Andres Bazerque"
+  web: "https://scholar.google.com/citations?user=G_bFkugAAAAJ&hl=en"
+  
+Miguel:
+  name: "Miguel Calvo-Fullana"
+  web: "https://scholar.google.com/citations?user=pcwmurcAAAAJ&hl=en"
+  
+Zebang:
+  name: "Zebang Shen"
+  web: "https://shenzebang.github.io/"
+
+Harshat:
+  name: "Harshat Kumar"
+  web: "https://scholar.google.com/citations?user=5uvmacoAAAAJ&hl=en"
+  
+Navid:
+  name: "Navid NaderiAlizadeh"
+  web: "https://sites.duke.edu/navid/"
+  
+Hamed:
+  name: "Hamed Hassani"
+  web: "https://www.seas.upenn.edu/~hassani/"
+  
+Ben:
+  name: "Benjamin D Haeffele"
+  web: "https://www.cis.jhu.edu/~haeffele/"
+  
+Rene:
+  name: "Rene Vidal"
+  web: "http://vision.jhu.edu/rvidal.html"
+
+Shubankar:
+  name: "Shubhankar P. Patankar"
+  web: "https://scholar.google.com/citations?user=T0ZliM8AAAAJ&hl=en"
+
+Mathieu:
+  name: "Mathieu Ouellet"
+  web: "https://scholar.google.com/citations?user=X2HAC70AAAAJ&hl=en"
+  
+Kieran:
+  name: "Kieran A. Murphy"
+  web: "https://www.kieranamurphy.com/"
+
+Bassett:
+  name: "Dani S. Bassett"
+  web: "https://complexsystemsupenn.com/"
+
+Adam:
+  name: "Adam Grabowski"
+
+Turja:
+  name: "Md Asadullah Turja"
+
+Hesham:
+  name: "Hesham Mostafa"
+  web: "https://scholar.google.com/citations?user=gXuEJfsAAAAJ&hl=en"
+
+Nageen:
+  name: "Nageen Himayat"
+  web: "https://scholar.google.com/citations?user=frmNZH4AAAAJ&hl=en"
+
+Zhiyang:
+  name: "Zhiyang Wang"
+  web: "https://zhiyangwang.net/"
