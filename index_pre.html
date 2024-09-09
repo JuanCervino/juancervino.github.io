@@ -12,9 +12,13 @@
 	}
 	</script>
 
+
+
+
 <head>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <title>Juan Cervino</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style type="text/css">
 		button {
   background: none!important;
@@ -78,7 +82,7 @@
 	li {
 	    margin-bottom: 5px;
 	}
-	img#me {
+	/* img#me {
 	    float: left;
 	    margin-right: 10px;
 	    height: 250px;
@@ -86,7 +90,38 @@
 	img#monte {
 	    text-align: center;
 	    height: 400px;
-	}
+	} */
+	img#me {
+    float: left;
+    margin-right: 10px;
+    max-width: 200px;
+    width: auto;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    img#me {
+        float: none;
+        display: block;
+        margin: 0 auto 10px;
+        width: 50%;     /* Adjust the width to a percentage, not 100% */
+        height: auto;   /* Maintain aspect ratio */
+        max-width: 300px;  /* Prevent the image from growing too large */
+    }
+}
+
+img#monte {
+    width: 100%;      /* Ensure it scales responsively */
+    height: auto;     /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+}
+	/* img#me, img#monte {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        } */
 	img#footer-image {
 	    float: center;
 	    width: 100%;
@@ -145,6 +180,8 @@ li p, dd p {
 }
     </style>
 </head>
+
+
 <body>
     <div id="content">
 	 <hr>
@@ -152,11 +189,12 @@ li p, dd p {
 	 <br>
 	 <hr><br>
 	 <img src="images/photo.jpg" id="me" />
-	 <p> Postdoctoral Researcher at the Massachusetts Institute of Technology </p>
+	 <p> Postdoctoral Researcher</p>
+	 <p> Massachusetts Institute of Technology </p>
 	 <p><a href="mailto:jcervino@mit.edu?Subject=" target="_blank">jcervino@mit.edu</a></p> 
 	 <p><a href='https://scholar.google.com/citations?user=lbyYN_sAAAAJ&hl=en&oi=ao' target="_blank">Google Scholar</a> </p> 
-	 <p><a href='resume/resume_juan_cervino.pdf' target="_blank">Resume</a></p>
-	 <p><a href="https://github.com/JuanCervino"> Github </a> / <a href="https://www.linkedin.com/in/juancervino4"> Linkedin </a> / <a href="https://twitter.com/juancervinouy"> Twitter </a></p>
+	 <!-- <p><a href='resume/resume_juan_cervino.pdf' target="_blank">Resume</a></p> -->
+	 <p><a href='resume/resume_juan_cervino.pdf' target="_blank">Resume</a> / <a href="https://github.com/JuanCervino"> Github </a> / <a href="https://www.linkedin.com/in/juancervino4"> Linkedin </a> / <a href="https://twitter.com/juancervinouy"> Twitter </a></p>
 	 <br>
 	 <hr> 
     <!-- <h2>Education</h2>
@@ -180,7 +218,3 @@ li p, dd p {
     <div id="content_research">
 	<hr>
     <h2>Research</h2>
-
-		
-
-
