@@ -1,6 +1,14 @@
 me:
   name: "Juan Cervino"
 
+Vijay:
+  name: "Vijay Kumar"
+  web: "https://www.kumarrobotics.org/"
+  
+Saurav:
+  name: "Saurav Agarwal"
+  web: "https://www.saurav.fyi/"  
+
 Luiz:
   name: "Luiz F. O. Chamon"
   web: "https://luizchamon.com/"
