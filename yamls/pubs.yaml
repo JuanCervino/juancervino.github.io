@@ -1,4 +1,4 @@
-2024:
+2025:
 
 - title: "Constrained Learning for Decentralized Multi-Objective Coverage Control"
   authors: 
@@ -6,8 +6,18 @@
   - "Saurav"
   - "Vijay"
   - "Alejandro" 
-  venue: "under submission."
+  venue: "To appear ICRA 2025."
   paper_pdf: "https://arxiv.org/pdf/2409.11311"
+
+- title: "Generalization of Graph Neural Networks is Robust to Model Mismatch"
+  authors: 
+  - "Zhiyang"
+  - "me"
+  - "Alejandro" 
+  venue: "To appear AAAI 2025."
+  paper_pdf: "https://arxiv.org/pdf/2408.13878"
+
+2024:
 
 - title: "A Manifold Perspective on the Statistical Generalization of Graph Neural Networks"
   authors: 
@@ -17,20 +27,12 @@
   venue: "under submission."
   paper_pdf: "https://arxiv.org/pdf/2406.05225"
 
-- title: "Generalization of Graph Neural Networks is Robust to Model Mismatch"
-  authors: 
-  - "Zhiyang"
-  - "me"
-  - "Alejandro" 
-  venue: "under submission."
-  paper_pdf: "https://arxiv.org/pdf/2408.13878"
-
 - title: "Generalization of Geometric Graph Neural Networks"
   authors: 
   - "Zhiyang"
   - "me"
   - "Alejandro" 
-  venue: "to appear at ASILOMAR 2024."
+  venue: "ASILOMAR 2024."
   paper_pdf: ""
 
 - title: "Generalization of Geometric Graph Neural Networks"
