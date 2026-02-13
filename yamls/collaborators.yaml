@@ -1,6 +1,38 @@
 me:
   name: "Juan Cervino"
 
+Antonis:
+  name: "Antonis Vasileiou"
+  web: "https://scholar.google.com/citations?user=YngKmrQAAAAJ&hl=el"
+
+Pascal:
+  name: "Pascal Frossard"
+  web: "https://www.epfl.ch/labs/lts4/people/people-current/frossard/"
+
+Charilaos:
+  name: "Charilaos I. Kanatsoulis"
+  web: "https://sites.google.com/site/harikanats/"
+
+Christopher:
+  name: "Christopher Morris"
+  web: "https://chrsmrrs.github.io/"
+
+Michael:
+  name: "Michael T. Schaub"
+  web: "https://michaelschaub.github.io/"
+
+Pierre:
+  name: "Pierre Vandergheynst"
+  web: "https://people.epfl.ch/120906"
+
+Guy:
+  name: "Guy Wolf"
+  web: "https://guywolf.org/"
+
+Ron:
+  name: "Ron Levie"
+  web: "https://sites.google.com/view/ronlevie"
+
 Vijay:
   name: "Vijay Kumar"
   web: "https://www.kumarrobotics.org/"

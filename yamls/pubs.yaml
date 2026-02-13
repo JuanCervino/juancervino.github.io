@@ -1,3 +1,20 @@
+2026:
+- title: "Position: Message-passing and spectral GNNs are two sides of the same coin"
+  authors:
+    - "Antonis"
+    - "me"
+    - "Pascal"
+    - "Charilaos"
+    - "Christopher"
+    - "Michael"
+    - "Pierre"
+    - "Zhiyang"
+    - "Guy"
+    - "Ron"
+  venue: "Under Submission"
+  paper_pdf: "https://arxiv.org/pdf/2602.10031"
+ 
+
 2025:
 
 - title: "Constrained Learning for Decentralized Multi-Objective Coverage Control"
